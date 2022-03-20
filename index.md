@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in Technology and Social Behavior at Northwestern University.
+  Personal Website of Jay Zhang
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -25,9 +25,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Abir. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
-
-My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
+Hi! I'm Jay Zhang.
 
 Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
