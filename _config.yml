@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url:                   https://zhihuazhangutk.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,11 +24,11 @@ title:                 Abir Saha
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Abir Saha -  PhD student in Technology and Social Behavior at Northwestern University.
+  Personal Website of Jay Zhang.
 
 # A shorter description for the sidebar.
 tagline: |
-  PhD Student in Technology & Social Behavior
+  Data Scientist
 
 # A list of keywords for your blog
 keywords:              [Abir, Saha, Accessibility, HCI, Northwestern]
@@ -40,8 +40,8 @@ logo:                  /assets/img/abir.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
+  name:                Jay Zhang
+  email:               zhihua.jay.zhang@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             abirsaha_
 
